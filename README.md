@@ -12,4 +12,5 @@ The console will have a single use function to modify, create and delete objects
 ## Using the project
 
 ## Running Tests
+The project makes use of command interpreters which is explained below :
 
