@@ -1,9 +1,13 @@
 #!/usr/bin/python3
-"""state module"""
+""" Module for State """
 
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """state class"""
+    """ Class for all state objects
+    Args:
+        name - name of state
+    """
+
     name = ""
