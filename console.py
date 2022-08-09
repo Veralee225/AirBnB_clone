@@ -14,6 +14,7 @@ from models.review import Review
 from models.amenity import Amenity
 import gc
 
+
 class HBNBCommand(cmd.Cmd):
     """ cmd clone"""
     intro = 'Welcome to the Airbnb console. Type help or ? to list commands.\n'
